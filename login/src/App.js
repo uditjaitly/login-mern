@@ -1,8 +1,10 @@
+import Router from "./router/Router.jsx";
+
 function App() {
   return (
-   <div>
-    Application
-   </div>
+    <div>
+      <Router />
+    </div>
   );
 }
 
